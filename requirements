@@ -1,0 +1,13 @@
+equests>=2.32.3
+
+beautifulsoup4>=4.12.3
+
+yfinance>=0.2.50
+
+alpaca-trade-api>=3.2.0
+
+pandas>=2.2.3
+
+schedule>=1.2.2
+
+streamlit>=1.40.1
