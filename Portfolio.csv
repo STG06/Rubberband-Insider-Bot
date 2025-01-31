@@ -1,1 +1,1 @@
-#This csv file will store all the stocks in your Alpaca portoflio (remove this line after importing the project).
+#This csv file will store all the stocks in your Alpaca portoflio in the format: Stock, lowerband, upperband (remove this line after importing the project).
